@@ -1,0 +1,4 @@
+nationalID:45101038859 balance:2040 name:nika age:20 email:jamas password:password
+nationalID:1234 balance:6930 name:nikoloza age:20 email:jamaspishvili password:password
+nationalID:4560 balance:1 name:masha age:30 email:jama password:pas
+nationalID:454 balance:0 name:zira age:40 email:3221 password:232
